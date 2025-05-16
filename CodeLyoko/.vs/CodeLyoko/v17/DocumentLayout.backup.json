@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\assets\\scripts\\enemy\\enshoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enshoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\assets\\scripts\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\assets\\scripts\\ui\\menulaunchscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\menulaunchscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|c:\\users\\yvenl\\onedrive\\bureau\\b2\\codelyoko\\assets\\scripts\\player\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\assets\\scripts\\player\\allyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\allyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\assets\\scripts\\enemy\\enemycomportment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemycomportment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\assets\\scripts\\player\\deadzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\deadzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\assets\\scripts\\player\\cinemachinefreelookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\cinemachinefreelookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\assets\\scripts\\player\\playercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\assets\\scripts\\enemy\\enemylaserscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemylaserscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\assets\\scripts\\player\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\assets\\scripts\\player\\mousecrossaircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8A09C4-764B-0D64-7CA7-D91CE9D72B7D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\mousecrossaircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\CanvasScripts\\CursorManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CanvasScripts\\CursorManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuLaunchScript.cs",
+              "DocumentMoniker": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\UI\\MenuLaunchScript.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\UI\\MenuLaunchScript.cs",
+              "ToolTip": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\UI\\MenuLaunchScript.cs",
+              "RelativeToolTip": "Assets\\scripts\\UI\\MenuLaunchScript.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:46:48.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllyProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\player\\AllyProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\player\\AllyProjectile.cs",
+              "ToolTip": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\player\\AllyProjectile.cs",
+              "RelativeToolTip": "Assets\\scripts\\player\\AllyProjectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:42:41.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\player\\PlayerSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\player\\PlayerSpawner.cs",
+              "ToolTip": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\player\\PlayerSpawner.cs",
+              "RelativeToolTip": "Assets\\scripts\\player\\PlayerSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:01:20.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\LevelManager.cs",
+              "ToolTip": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\LevelManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:36:53.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyComportment.cs",
+              "DocumentMoniker": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\Enemy\\EnemyComportment.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Enemy\\EnemyComportment.cs",
+              "ToolTip": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\Enemy\\EnemyComportment.cs",
+              "RelativeToolTip": "Assets\\scripts\\Enemy\\EnemyComportment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:28:11.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\Enemy\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Enemy\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\Enemy\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\scripts\\Enemy\\EnemySpawner.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:21:27.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyLaserScript.cs",
+              "DocumentMoniker": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\Enemy\\EnemyLaserScript.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Enemy\\EnemyLaserScript.cs",
+              "ToolTip": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\Enemy\\EnemyLaserScript.cs",
+              "RelativeToolTip": "Assets\\scripts\\Enemy\\EnemyLaserScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:11:46.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnShoot.cs",
+              "DocumentMoniker": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\Enemy\\EnShoot.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Enemy\\EnShoot.cs",
+              "ToolTip": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\Enemy\\EnShoot.cs",
+              "RelativeToolTip": "Assets\\scripts\\Enemy\\EnShoot.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAxwCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:09:21.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MouseCrossairController.cs",
+              "DocumentMoniker": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\player\\MouseCrossairController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\player\\MouseCrossairController.cs",
+              "ToolTip": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\player\\MouseCrossairController.cs",
+              "RelativeToolTip": "Assets\\scripts\\player\\MouseCrossairController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:46:06.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CinemachineFreeLookManager.cs",
+              "DocumentMoniker": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\player\\CinemachineFreeLookManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\player\\CinemachineFreeLookManager.cs",
+              "ToolTip": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\player\\CinemachineFreeLookManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\player\\CinemachineFreeLookManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:56:11.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CursorManager.cs",
+              "DocumentMoniker": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\CanvasScripts\\CursorManager.cs",
+              "RelativeDocumentMoniker": "Assets\\CanvasScripts\\CursorManager.cs",
+              "ToolTip": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\CanvasScripts\\CursorManager.cs",
+              "RelativeToolTip": "Assets\\CanvasScripts\\CursorManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T06:15:25.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Deadzone.cs",
+              "DocumentMoniker": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\player\\Deadzone.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\player\\Deadzone.cs",
+              "ToolTip": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\player\\Deadzone.cs",
+              "RelativeToolTip": "Assets\\scripts\\player\\Deadzone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T03:37:33.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\player\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\player\\Gun.cs",
+              "ToolTip": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\player\\Gun.cs",
+              "RelativeToolTip": "Assets\\scripts\\player\\Gun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:26:01.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerController1.cs",
+              "DocumentMoniker": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\player\\PlayerController1.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\player\\PlayerController1.cs",
+              "ToolTip": "C:\\Users\\yvenl\\OneDrive\\Bureau\\B2\\CodeLyoko\\Assets\\scripts\\player\\PlayerController1.cs",
+              "RelativeToolTip": "Assets\\scripts\\player\\PlayerController1.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAywHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:03:11.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
